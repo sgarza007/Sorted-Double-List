@@ -1,8 +1,9 @@
+//author:Saul Garza
 //Gets user command of what they want to do with the list
 
 import java.util.*;
 
-public class menu {
+public class test {
  public static void main(String args[]) {
   SortedDoubleList list = new SortedDoubleList();
   Scanner kb = new Scanner(System.in);
